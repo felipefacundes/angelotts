@@ -14,6 +14,7 @@ Está sob a égide da **licença**:
     
 - **Você poderá executar:**
 ``` 
+chmod +x INSTALL.sh
 sh INSTALL.sh
 ```
 ##### Ou, manualmente:
