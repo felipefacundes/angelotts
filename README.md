@@ -85,7 +85,9 @@ onboard --not-show-in=GNOME,GNOME-Classic:GNOME --startup-delay=3.0 &
 ``` 
 cp /etc/xdg/autostart/onboard-autostart.desktop ~/.config/autostart/
 ```
-### Ativar o onboard é necessário, para que programas que tenham o recurso de acessibilidade, ###
-### como o OKULAR, possam funcionar corretamente. Não deixe de ativar o onboard! ;) ###
-###### Angelo é o nome do meu falecido Pai, esta é uma homenagem a João Angelo. Verdadeiro Pai Herói. ######
-#### Licence: GPLv3 ####
+### Ativar o onboard é necessário, para que programas que tenham o recurso de acessibilidade, como o OKULAR, possam funcionar corretamente. Não deixe de ativar o onboard! ;) ###
+
+<br></br>
+
+###### Angelo é o nome do meu saudoso Pai, esta é uma homenagem a João Angelo. Verdadeiro Pai Herói. ######
+#### Licença: GPLv3 ####
